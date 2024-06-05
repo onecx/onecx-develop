@@ -1,0 +1,14 @@
+# enable or disable deployment of components
+deployment:
+  # adminer component
+  adminer: true
+
+product:
+  info:
+    enabled: false
+    data:
+      description: "OneCX Develop Tools"
+      imageUrl: ""
+      iconName: "palette"
+      displayName: "OneCX Develop Tools"
+      basePath: "/develop"  
