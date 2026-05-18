@@ -1,5 +1,6 @@
 apiversion: v2
 name: onecx-develop
+description: Helm chart for deploying the OneCX development environment including core product services and optional Adminer database UI.
 version: 0.0.0
 appversion: 0.0.0
 dependencies:
