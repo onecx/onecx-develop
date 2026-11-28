@@ -4,6 +4,6 @@ dependencies:
   version: 0.4.0
 - name: onecx-develop-adminer
   repository: oci://ghcr.io/onecx/charts
-  version: 1.3.0-rc.3
-digest: sha256:5f7a5ad9a34e82e1c5f5a377afd4281ed35c92cc914f03a696e5aef2a3a74a44
-generated: "2026-11-24T08:19:31.661880201Z"
+  version: 1.3.0-rc.4
+digest: sha256:9c01624939d43743b97f4e4fc8371af6b7db2a732a2f765980d6916373bb5219
+generated: "2026-11-28T15:35:03.686937963Z"
